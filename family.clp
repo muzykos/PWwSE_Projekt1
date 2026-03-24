@@ -1,0 +1,57 @@
+(deffacts people
+(woman Zofia)
+(woman Katarzyna)
+(woman Beata)
+(man Antoni)
+(man Jan)
+(man Tadeusz)
+
+(woman Anna)
+(woman Joanna)
+(woman Ewelina)
+(woman Judyta)
+(woman Weronika)
+(man Bartosz)
+(man Maciej)
+(man Kamil)
+(man Noel)
+
+(woman Celina)
+(woman Jolanta)
+(man Szymon)
+(man Piotr)
+(man Cyprian)
+
+(mother Zofia Bartosz)
+(mother Zofia Weronika)
+(mother Zofia Maciej)
+(father Antoni Bartosz)
+(father Antoni Weronika)
+(father Antoni Maciej)
+
+(mother Beata Ewelina)
+(mother Beata Judyta)
+(mother Beata Noel)
+(father Tadeusz Ewelina)
+(father Tadeusz Judyta)
+(father Tadeusz Noel)
+
+(mother Katarzyna Anna)
+(father Jan Anna)
+(mother Katarzyna Joanna)
+(father Jan Joanna)
+
+(mother Anna Szymon)
+(father Bartosz Szymon)
+(mother Anna Piotr)
+(father Bartosz Piotr)
+
+(mother Ewelina Celina)
+(father Maciej Celina) 
+(mother Ewelina Jolanta)
+(father Maciej Jolanta)
+(mother Ewelina Cyprian)
+(father Maciej Cyprian)
+)
+
+
