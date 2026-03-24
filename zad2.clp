@@ -24,7 +24,7 @@
    (cukier ?c&:(>= ?c 0.5))
    (maslo ?m&:(>= ?m 1))
    =>
-   (printout t "Mozesz przygotowac: Szarlotka (ciasto)" crlf))
+   (printout t "Mozesz przygotowac: Szarlotka" crlf))
 
 (defrule przepis-nalesniki
    (maka ?mk&:(>= ?mk 0.5))
